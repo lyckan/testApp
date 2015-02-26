@@ -1,0 +1,10 @@
+{
+  "name": "test-webapp",
+  "version": "0.0.1",
+  "description": "Presentation layer",
+  "devDependencies": {
+    "express": "^4.8.7",
+    "gulp": "^3.8.11",
+    "gulp-bower": "0.0.10"
+  }
+}
