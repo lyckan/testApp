@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Presentation layer",
   "devDependencies": {
+    "connect-livereload": "^0.5.3",
     "express": "^4.8.7",
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
@@ -10,6 +11,7 @@
     "gulp-less": "^3.0.1",
     "gulp-livereload": "^3.8.0",
     "gulp-plumber": "^0.6.6",
-    "gulp-watch": "^4.1.1"
+    "gulp-watch": "^4.1.1",
+    "tiny-lr": "^0.1.5"
   }
 }
